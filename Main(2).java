@@ -38,7 +38,27 @@ class Main {
     }
   }
 
-  public static void addAthlete() {
+  public static void addAthlete(Scanner input) {
+
+  }
+
+  public static void editAthlete(Scanner input) {
+
+  }
+
+  public static void deleteAthlete(Scanner input) {
+
+  }
+
+  public static void addCoach(Scanner input) {
+
+  }
+
+  public static void editCoach(Scanner input) {
+
+  }
+
+  public static void deleteCoach(Scanner input) {
 
   }
 }
